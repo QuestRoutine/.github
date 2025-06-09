@@ -45,10 +45,10 @@
 
 ### 할 일 등록/삭제
 
-<table>
+<table >
   <tr>
-    <td max-width="500">
-      <img width="300" src="https://github.com/user-attachments/assets/2cfdc55e-00d2-441a-a022-56834104b1df" />
+    <td max-width="500px">
+      <img src="https://github.com/user-attachments/assets/2cfdc55e-00d2-441a-a022-56834104b1df" />
     </td>
     <td>
       할 일 추가 및 삭제를 할 수 있습니다. <br/>
@@ -61,12 +61,11 @@
 
 <table>
   <tr>
-    <td max-width="500">
-      <img width="300" src="https://github.com/user-attachments/assets/e04c055c-58cb-4633-bb2d-dd7153983673" />
+    <td max-width="500px">
+      <img src="https://github.com/user-attachments/assets/e04c055c-58cb-4633-bb2d-dd7153983673" />
     </td>
     <td>
-      할 일을 완료하면서 활성화된 업적과 비활성화된 업적을 확인할 수 있습니다.<br/>
-      재미를 위해서 아직 해금되지 않은 업적 조건은 확인할 수 없습니다.<br/>
+      다양한 업적을 획득할 수 있습니다. <br/>
     </td>
   </tr>
 </table>
@@ -75,12 +74,12 @@
 
 <table>
   <tr>
-    <td max-width="500">
-      <img width="300" src="https://github.com/user-attachments/assets/f8e2692d-7b39-40d1-8326-522891509d76" />
+    <td max-width="500px">
+      <img src="https://github.com/user-attachments/assets/f8e2692d-7b39-40d1-8326-522891509d76" />
     </td>
     <td>
-      <b>레벨</b> - 완료한 할 일 개수에 따라 경험치를 올릴 수 있습니다.<br/>
-      <b>이미지</b> - 레벨에 따라 다양한 이미지를 제공합니다.<br/>
+      <b>레벨</b> - 완료한 할 일 개수에 따라 경험치를 올릴 수 있습니다. <br/>
+      <b>이미지</b> - 레벨에 따라 다양한 이미지를 제공합니다. <br/>
     </td>
   </tr>
 </table>
@@ -89,8 +88,8 @@
 
 <table>
   <tr>
-    <td max-width="500">
-      <img width="300" src="https://github.com/user-attachments/assets/d2ffe967-b448-4ab7-babd-bed4b6038c1b" />
+    <td max-width="500px">
+      <img src="https://github.com/user-attachments/assets/d2ffe967-b448-4ab7-babd-bed4b6038c1b" />
     </td>
     <td>
       <b>랭킹</b> - 전체 이용자의 랭킹을 확인할 수 있습니다.<br/>
