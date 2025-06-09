@@ -1,14 +1,7 @@
 # 🚀 Questine (퀘스틴)
+![Image](https://github.com/user-attachments/assets/b290a20e-f2ee-4f9b-88ad-f0f94a6eceaa)
 
 <img width="256" alt="Image" src="https://github.com/user-attachments/assets/03be92e5-e401-492f-b6f3-aa9af5f1ead1" />
-
-# 🔗 프로젝트 배포 주소
-
-<div align="center">
-
-| [Android](#) | [IOS](#) |
-| :----------: | :------: |
-
 </div>
 <br />
 
