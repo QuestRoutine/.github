@@ -1,8 +1,13 @@
 # 🚀 Questine (퀘스틴)
+
+<div align="center">
+
 ![Image](https://github.com/user-attachments/assets/b290a20e-f2ee-4f9b-88ad-f0f94a6eceaa)
 
 <img width="256" alt="Image" src="https://github.com/user-attachments/assets/03be92e5-e401-492f-b6f3-aa9af5f1ead1" />
+
 </div>
+
 <br />
 
 > 목차
@@ -12,6 +17,8 @@
 > - [🔧 트러블슈팅](#-트러블슈팅)
 > - [📁 폴더 구조](#-폴더-구조)
 > - [📄 참고 자료](#-참고-자료)
+
+</div>
 
 ---
 
